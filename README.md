@@ -1,16 +1,16 @@
 ### Hi there 👋
+- :man: I'm Igor Pavlov, Java support engineer.
+- :coffee: Most of the time I'm writing on Java (8), Javascript, Typescript.
+- :infinity: Moving my career to DevOps.
+- :gear: I'm interested in IaC tools
 
-<!--
-**pavigor/pavigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and languages I'm interested in
+- Java
+- Python
+- Bash
+- Ansible
+- Terraform
+- Kubernetes
+- Docker
+- AWS
+- Linux
